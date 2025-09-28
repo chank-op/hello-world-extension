@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Hello World Extension",
+  "version": "1.0",
+  "description": "A simple Firefox extension that says Hello World.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hello_world@chankmc.xyz",
+      "update_url": "https://github.com/chank-op/hello-world-extension/updates.json"
+    }
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  }
+}

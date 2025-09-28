@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "hello_world@chankmc.xyz": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/chank-op/hello-world-extension/hello-world-1.0.xpi"
+        }
+      ]
+    }
+  }
+}
