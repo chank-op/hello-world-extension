@@ -6,7 +6,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "hello_world@chankmc.xyz",
-      "update_url": "https://github.com/chank-op/hello-world-extension/updates.json"
+      "update_url": "https://chank-op.github.io/hello-world-extension/updates.json"
     }
   },
   "action": {
