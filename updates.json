@@ -3,8 +3,14 @@
     "hello_world@chankmc.xyz": {
       "updates": [
         {
-          "version": "1.0",
-          "update_link": "https://chank-op.github.io/hello-world-extension/hello-world-1.0.xpi"
+          "version": "1.0.1",
+          "update_link": "https://chank-op.github.io/hello-world-extension/hello-world-1.0.1.xpi",
+          "applications": {
+            "gecko": {
+              "id": "hello_world@chankmc.xyz",
+              "strict_min_version": "42.0"
+            }
+          }
         }
       ]
     }
